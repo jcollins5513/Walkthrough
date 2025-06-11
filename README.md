@@ -1,6 +1,6 @@
-# Virtual Walkthrough Application
+# Virtual Walkthrough SaaS
 
-A modern web application for managing and viewing 360° virtual walkthroughs and drone footage.
+A cloud-based platform for managing and viewing 360° architectural walkthroughs and drone flyover footage. Upload panoramic images or videos and share immersive experiences with clients.
 
 ## Features
 
@@ -9,6 +9,7 @@ A modern web application for managing and viewing 360° virtual walkthroughs and
 - Video player for drone footage
 - Modern, responsive UI
 - Drag-and-drop file upload
+- Built for architects to present immersive designs to clients
 
 ## Prerequisites
 
