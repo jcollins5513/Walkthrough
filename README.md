@@ -45,7 +45,7 @@ npm run build
 
 - React
 - TypeScript
-- Material-UI
+- MUI (Material-UI)
 - Pannellum (for 360° image viewing)
 - React Dropzone (for file uploads)
 
