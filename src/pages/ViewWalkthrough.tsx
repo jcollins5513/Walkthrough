@@ -80,4 +80,5 @@ const ViewWalkthrough = () => {
   );
 };
 
-export default ViewWalkthrough; 
+export default ViewWalkthrough;
+
